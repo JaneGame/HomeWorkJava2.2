@@ -7,7 +7,7 @@
 На тестирование затрачено: 0.5
 
 В результате тестирования выявлены следующие дефекты:
-[Дефект 1](https://github.com/JaneGame/HomeWorkJava2.2/issues/1)
+[Неправильно складываются дробные числа в приложении Precision ](https://github.com/JaneGame/HomeWorkJava2.2/issues/1)
 
 
 ## Описание процесса тестирования
